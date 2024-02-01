@@ -1,0 +1,64 @@
+---
+import { basics } from '@cv'
+import Section from '../Section.astro'
+import Mail from '@/icons/Mail.astro'
+import Phone from '@/icons/Phone.astro'
+import LinkedIn from '@/icons/LinkedIn.astro'
+import Github from '@/icons/GitHub.astro'
+type SocialIcon = Record<string, string | any>
+
+const { name, label, image, location, profiles, phone, email } = basics
+const { city, region } = location
+
+
+
+const linkedInfo = profiles.find(({ network }) => network === "LinkedIn")
+const linkedUrl = linkedInfo?.url
+
+const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
+---
+
+<Section>
+    <div class="container">
+        <div class="info">
+            <h1>{name}</h1>
+            <h2>{label}</h2>
+            <span>
+                { city} ,
+                { region }
+            </span>
+            <footer>
+                {
+                    email && (
+                        <a 
+                            href={`mailto:${email}`}
+                            title={`Send an email to ${name} to the email ${email}`}
+                            target="_blank"
+                        >
+                        <!-- Icono -->
+                        <Mail/>
+                        </a>
+                    )
+                }
+                {
+                    phone && (
+                        <a 
+                            href={`tel:${phone}`}
+                            title={`Call to ${name} to the phone number: ${phone}`}
+                            target="_blank"
+                        >
+                        <!-- Icono -->
+                        <Phone/>
+                        </a>
+                    )
+                }
+                
+                
+            </footer>
+        </div>
+    </div>
+</Section>
+
+<style>
+   
+</style>

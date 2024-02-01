@@ -1,0 +1,243 @@
+{
+    "basics": {
+      "name": "Sebastián Castro Jaramillo",
+      "label": "Front End Developer",
+      "image": "https://media.licdn.com/dms/image/D4E03AQG5SFO6DnnBZg/profile-displayphoto-shrink_800_800/0/1674596684489?e=1712188800&v=beta&t=Kg2Rv5eIeynJwyk9RltJCCg-a_S90WqrdWdCIh49zlI",
+      "email": "scastroj89@gmail.com",
+      "phone": "+573017426148",
+      "url": "",
+      "summary": "I am someone who is passionate about learning and creating, this led me to development, which has become my vocation and career since the end of 2020. I try to know everything I can, and to be humble when I find a challenge that I do not know. I get along excellently with those who share my environment, always trying to bring a good energy to where I arrive. My experience as a programmer has been mostly as a web developer, although I would love to expand those horizons little by little, my dedication led me to be the main dev of my company when it comes to international projects and that are handled in English. I have worked a lot with WordPress, PHP, Javascript, CSS and Shopify (language that I was the only dev in my company for almost a year). Now on my current position, besides the FrontEnd Development Director role, I'm also the CRM Dev Specialist, focused on Salesforce (Apex & Lightning). I love challenges and discovering new things, I am a pragmatic person who seeks the most efficient way to deal with situations that arise on a daily basis. And I'm a good bet every time!",
+      "location": {
+        "address": "",
+        "postalCode": "050019",
+        "city": "Medellín",
+        "countryCode": "CO",
+        "region": "Colombia"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "scastroj89",
+          "url": "https://linkedin.com/in/scastroj89"
+        },
+        {
+          "network": "GitHub",
+          "username": "Scastroj89",
+          "url": "https://github.com/scastroj89"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "elev8.io",
+        "position": "Senior Frontend Developer",
+        "url": "https://elev8.io/",
+        "startDate": "2023-01-15",
+        "endDate": null,
+        "summary": "Development and technology director, with a focus on integrations and CRMs.",
+        "highlights": [
+          "Best Developer"
+        ]
+      },
+      {
+        "name": "Sigma Development",
+        "position": "FrontEnd Developer",
+        "url": "https://sigma.la/",
+        "startDate": "2020-07-15",
+        "endDate": "2023-01-15",
+        "summary": "Frontend developer with emphasis on wordpress, django & shopify.",
+        "highlights": [
+          "Fastest Growing Developer"
+        ]
+      },
+      {
+        "name": "Freelance",
+        "position": "FrontEnd Developer",
+        "startDate": "2020",
+        "endDate": null,
+        "summary": "Frontend developer providing services as a freelancer for projects focused on web development in WordPress and Shopify.",
+        "highlights": [
+        ]
+      }
+    ],
+    "education": [{
+      "institution": "Universidad Nacional de Colombia",
+      "url": "https://unal.edu.co/",
+      "area": "Software Engineer / Mision TIC",
+      "studyType": "Developer",
+      "startDate": "2020-01",
+      "endDate": "2020-06",
+      "score": "5.0",
+      "courses": [
+        "Python", "Java", "Javascript"
+      ]
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+            "Web Development", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": [
+            "Web Development", "Frontend", "Responsive Design"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Master",
+        "keywords": [
+            "Web Development", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Wordpress",
+        "level": "Master",
+        "keywords": [
+            "Web Development", "Frontend", "Backend", "PHP"
+        ]
+      },
+      {
+        "name": "Shopify",
+        "level": "Advanced",
+        "keywords": [
+            "Web Development", "Frontend", "ThemeKit", "Liquid"
+        ]
+      },
+      {
+        "name": "Python / Django",
+        "level": "Advanced",
+        "keywords": [
+            "Web Development", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+            "Database", "SQL", "Data Management", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Advanced",
+        "keywords": [
+            "Version Control", "Colabs", "Source Code"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Advanced",
+        "keywords": [
+            "Version Control", "Colabs", "Source Code"
+        ]
+      },
+      {
+        "name": "Salesforce",
+        "level": "Medium",
+        "keywords": [
+          "Admin", "Lightning", "Apex"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Junior",
+        "keywords": [
+            "Web Development", "Frontend", "JavaScript Library", "UI"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Advanced"
+      },
+      {
+        "language": "French",
+        "fluency": "Basic"
+      }
+    ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "ROI Calculator",
+        "isActive": true,
+        "description": "Return Of Investment Calculator for marketing in US' rehabs & mental health institutions",
+        "highlights": [
+          "Investment",
+          "PHP",
+          "Wordpress"
+        ],
+        "url": "https://elev8.io/2023-roi-calculator/"
+      },
+      {
+        "name": "DOR",
+        "isActive": true,
+        "description": "Website development for WeAreDor",
+        "highlights": [
+          "Wordpress",
+          "PHP",
+          "Javascript"
+        ],
+        "url": "https://wearedor.com/"
+      },
+      {
+        "name": "Risewell",
+        "isActive": true,
+        "description": "e-Commerce development in shopify for Risewell",
+        "highlights": [
+          "Shopify",
+          "Liquid"
+        ],
+        "url": "https://risewell.com/"
+      },
+      {
+        "name": "Webscrapping",
+        "description": "Internal webscrapping tool for US directories",
+        "highlights": [
+          "Beautiful Soup",
+          "Python"
+        ],
+        "url": "https://github.com/Scastroj89/Rehab-Web-Scrapping-/blob/main/rehabs%20(2).py"
+      },
+      {
+        "name": "CFS",
+        "isActive": true,
+        "description": "e-Commerce development in wordpress & WooCommerce for CFS in Costa Rica",
+        "highlights": [
+          "WooCommerce",
+          "Wordpress",
+          "Javascript"
+        ],
+        "url": "https://www.cfscr.com/"
+      },
+      {
+        "name": "Salesforce Admin",
+        "description": "Salesforce admin for my current company & all of our clients",
+        "highlights": [
+          "Salesforce",
+          "Lightning",
+          "Apex"
+        ],
+        "url": "https://elev8.io"
+      }
+    ]
+  }
