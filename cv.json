@@ -29,11 +29,22 @@
     },
     "work": [
       {
+        "name": "Power Digital Marketing",
+        "position": "CRO Frontend Developer",
+        "url": "https://powerdigitalmarketing.com/",
+        "startDate": "2023-03-19",
+        "endDate": null,
+        "summary": "Customer Return Optimization Developer, focused on Shopify & Wordpress",
+        "highlights": [
+          "Pod's Best Developer"
+        ]
+      },
+      {
         "name": "elev8.io",
         "position": "Senior Frontend Developer",
         "url": "https://elev8.io/",
         "startDate": "2023-01-15",
-        "endDate": null,
+        "endDate": "2024-02-28",
         "summary": "Development and technology director, with a focus on integrations and CRMs.",
         "highlights": [
           "Best Developer"
